@@ -1,0 +1,196 @@
+{
+  "Categories":[
+    {
+    "id": 1,
+    "name":"category_1",
+    "image":"",
+    "meals":[
+      {
+        "id": 1,
+        "name":"meal_1",
+        "image":""
+      },
+      {
+        "id": 2,
+        "name":"meal_2",
+        "image":""
+      },
+      {
+        "id": 3,
+        "name":"meal_3",
+        "image":""
+      },
+      {
+        "id": 4,
+        "name":"meal_4",
+        "image":""
+      },
+      {
+        "id": 5,
+        "name":"meal_5",
+        "image":""
+      }
+      ]
+    },
+    {
+    "id": 2,
+    "name":"category_2",
+    "image":"",
+    "meals":[
+      {
+        "id": 1,
+        "name":"meal_1",
+        "image":""
+      },
+      {
+        "id": 2,
+        "name":"meal_2",
+        "image":""
+      },
+      {
+        "id": 3,
+        "name":"meal_3",
+        "image":""
+      },
+      {
+        "id": 4,
+        "name":"meal_4",
+        "image":""
+      },
+      {
+        "id": 5,
+        "name":"meal_5",
+        "image":""
+      }
+      ]
+    },
+    {
+    "id": 3,
+    "name":"category_3",
+    "image":"",
+    "meals":[
+      {
+        "id": 1,
+        "name":"meal_1",
+        "image":""
+      },
+      {
+        "id": 2,
+        "name":"meal_2",
+        "image":""
+      },
+      {
+        "id": 3,
+        "name":"meal_3",
+        "image":""
+      },
+      {
+        "id": 4,
+        "name":"meal_4",
+        "image":""
+      },
+      {
+        "id": 5,
+        "name":"meal_5",
+        "image":""
+      }
+      ]
+    },
+    {
+    "id": 4,
+    "name":"category_4",
+    "image":"",
+    "meals":[
+      {
+        "id": 1,
+        "name":"meal_1",
+        "image":""
+      },
+      {
+        "id": 2,
+        "name":"meal_2",
+        "image":""
+      },
+      {
+        "id": 3,
+        "name":"meal_3",
+        "image":""
+      },
+      {
+        "id": 4,
+        "name":"meal_4",
+        "image":""
+      },
+      {
+        "id": 5,
+        "name":"meal_5",
+        "image":""
+      }
+      ]
+    },
+    {
+    "id": 5,
+    "name":"category_5",
+    "image":"",
+    "meals":[
+      {
+        "id": 1,
+        "name":"meal_1",
+        "image":""
+      },
+      {
+        "id": 2,
+        "name":"meal_2",
+        "image":""
+      },
+      {
+        "id": 3,
+        "name":"meal_3",
+        "image":""
+      },
+      {
+        "id": 4,
+        "name":"meal_4",
+        "image":""
+      },
+      {
+        "id": 5,
+        "name":"meal_5",
+        "image":""
+      }
+      ]
+    },
+    {
+    "id": 6,
+    "name":"category_6",
+    "image":"",
+    "meals":[
+      {
+        "id": 1,
+        "name":"meal_1",
+        "image":""
+      },
+      {
+        "id": 2,
+        "name":"meal_2",
+        "image":""
+      },
+      {
+        "id": 3,
+        "name":"meal_3",
+        "image":""
+      },
+      {
+        "id": 4,
+        "name":"meal_4",
+        "image":""
+      },
+      {
+        "id": 5,
+        "name":"meal_5",
+        "image":""
+      }
+      ]
+    }
+    ]
+}
