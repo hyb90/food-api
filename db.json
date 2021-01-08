@@ -8,26 +8,31 @@
       {
         "id": 1,
         "name":"meal_1",
+	"price":10.5,
         "image":"https://cdn5.vectorstock.com/i/thumb-large/07/94/fresh-vegetables-around-text-place-in-flat-vector-23120794.jpg"
       },
       {
         "id": 2,
         "name":"meal_2",
+	"price":13.5,
         "image":"https://cdn5.vectorstock.com/i/thumb-large/83/24/isolated-set-food-vector-28148324.jpg"
       },
       {
         "id": 3,
         "name":"meal_3",
+	"price":12.5,
         "image":"https://cdn2.vectorstock.com/i/thumb-large/64/76/food-pyramid-vector-1206476.jpg"
       },
       {
         "id": 4,
         "name":"meal_4",
+	"price":15.5,
         "image":"https://cdn1.vectorstock.com/i/thumb-large/09/05/fast-food-vector-14310905.jpg"
       },
       {
         "id": 5,
         "name":"meal_5",
+	"price":10.5,
         "image":"https://cdn1.vectorstock.com/i/thumb-large/74/60/fast-food-vector-10837460.jpg"
       }
       ]
@@ -40,26 +45,31 @@
       {
         "id": 6,
         "name":"meal_1",
+	"price":9.5,
         "image":"https://cdn5.vectorstock.com/i/thumb-large/77/14/food-vector-1137714.jpg"
       },
       {
         "id": 7,
         "name":"meal_2",
+	"price":19.5,
         "image":"https://cdn2.vectorstock.com/i/thumb-large/50/51/set-fast-food-meal-vector-25805051.jpg"
       },
       {
         "id": 8,
         "name":"meal_3",
+	"price":10.5,
         "image":"https://cdn3.vectorstock.com/i/thumb-large/76/62/logo-food-vector-12017662.jpg"
       },
       {
         "id": 9,
         "name":"meal_4",
+	"price":10.5,
         "image":"https://cdn3.vectorstock.com/i/thumb-large/76/62/logo-food-vector-12017662.jpg"
       },
       {
         "id": 10,
         "name":"meal_5",
+	"price":10.5,
         "image":"https://cdn4.vectorstock.com/i/thumb-large/27/03/fast-food-poster-vector-3532703.jpg"
       }
       ]
@@ -72,26 +82,31 @@
       {
         "id": 11,
         "name":"meal_1",
+	"price":15.5,
         "image":"https://cdn3.vectorstock.com/i/thumb-large/82/22/health-food-vector-1878222.jpg"
       },
       {
         "id": 12,
         "name":"meal_2",
+	"price":9.5,
         "image":"https://cdn2.vectorstock.com/i/thumb-large/34/16/fast-food-vector-1433416.jpg"
       },
       {
         "id": 13,
         "name":"meal_3",
+	"price":8.5,
         "image":"https://cdn2.vectorstock.com/i/thumb-large/91/06/fast-food-vector-919106.jpg"
       },
       {
         "id": 14,
         "name":"meal_4",
+	"price":10.5,
         "image":"https://cdn3.vectorstock.com/i/thumb-large/44/47/fast-food-vector-20834447.jpg"
       },
       {
         "id": 15,
         "name":"meal_5",
+	"price":10.5,
         "image":"https://cdn5.vectorstock.com/i/thumb-large/15/04/logo-sea-food-vector-13751504.jpg"
       }
       ]
@@ -104,26 +119,31 @@
       {
         "id": 16,
         "name":"meal_1",
+	"price":20.5,
         "image":"https://cdn4.vectorstock.com/i/thumb-large/64/73/bafood-vector-6136473.jpg"
       },
       {
         "id": 17,
         "name":"meal_2",
+	"price":10.5,
         "image":"https://cdn3.vectorstock.com/i/thumb-large/00/17/fast-food-menu-vector-9180017.jpg"
       },
       {
         "id": 18,
         "name":"meal_3",
+	"price":5.5,
         "image":"https://cdn2.vectorstock.com/i/thumb-large/63/81/organic-food-icon-vector-1966381.jpg"
       },
       {
         "id": 19,
         "name":"meal_4",
+	"price":19.5,
         "image":"https://cdn4.vectorstock.com/i/thumb-large/70/98/fish-food-vector-15297098.jpg"
       },
       {
         "id": 20,
         "name":"meal_5",
+	"price":10.5,
         "image":"https://cdn4.vectorstock.com/i/thumb-large/54/88/set-food-vector-1155488.jpg"
       }
       ]
@@ -136,26 +156,31 @@
       {
         "id": 21,
         "name":"meal_1",
+	"price":10.5,
         "image":"https://cdn1.vectorstock.com/i/thumb-large/58/00/japanese-food-vector-16505800.jpg"
       },
       {
         "id": 22,
         "name":"meal_2",
+	"price":15.5,
         "image":"https://cdn3.vectorstock.com/i/thumb-large/08/07/cherry-food-vector-15550807.jpg"
       },
       {
         "id": 23,
         "name":"meal_3",
+	"price":60.5,
         "image":"https://cdn2.vectorstock.com/i/thumb-large/74/16/breakfast-food-vector-10717416.jpg"
       },
       {
         "id": 24,
         "name":"meal_4",
+	"price":10.5,
         "image":"https://cdn1.vectorstock.com/i/thumb-large/95/25/dog-food-vector-8809525.jpg"
       },
       {
         "id": 25,
         "name":"meal_5",
+	"price":10.9,
         "image":"https://cdn1.vectorstock.com/i/thumb-large/04/65/asian-food-icon-vector-10790465.jpg"
       }
       ]
@@ -168,26 +193,31 @@
       {
         "id": 26,
         "name":"meal_1",
+	"price":16.5,
         "image":"https://cdn2.vectorstock.com/i/thumb-large/79/51/asia-food-vector-10907951.jpg"
       },
       {
         "id": 27,
         "name":"meal_2",
+	"price":40.5,
         "image":"https://cdn5.vectorstock.com/i/thumb-large/83/79/picnic-food-cartoon-vector-23498379.jpg"
       },
       {
         "id": 28,
         "name":"meal_3",
+	"price":11.5,
         "image":"https://cdn3.vectorstock.com/i/thumb-large/40/82/picnic-and-food-vector-22564082.jpg"
       },
       {
         "id": 29,
         "name":"meal_4",
+	"price":9.5,
         "image":"https://cdn4.vectorstock.com/i/thumb-large/55/68/hot-food-icon-vector-3175568.jpg"
       },
       {
         "id": 30,
         "name":"meal_5",
+	"price":21.5,
         "image":"https://cdn2.vectorstock.com/i/thumb-large/56/81/bafood-flat-icon-vector-12565681.jpg"
       }
       ]
